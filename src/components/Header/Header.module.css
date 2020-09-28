@@ -1,0 +1,15 @@
+.header {
+    grid-area: h;
+    background-color: brown;
+    border-radius: 8px;
+    padding-left: 10px;
+}
+
+.header img {
+    width: 80px;
+}
+
+.logo {
+    width: 500px;
+    z-index: 9999;
+}
